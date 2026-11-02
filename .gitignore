@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+*.m4a
+*.mp3
+*.wav
+data/*.json
+logs/
+screenshots/
+.gradle/
+build/
+local.properties
+brain.py.openai.bak
